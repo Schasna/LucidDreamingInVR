@@ -11,7 +11,7 @@
 
 ## text + images + videos    
 
-![aerosol-w-1](./Images/ausstellung5.jpg)    
+![aerosol-w-1](./Images/ausstellung5.JPG)    
 
 Abstract
 
@@ -19,9 +19,9 @@ This project explores the potential of virtual reality (VR) technology to help p
   
    
 
-![aerosol-w-2](./Images/Map_structure.jpg)   
+![aerosol-w-2](./Images/Map_structure.png)   
 
-![aerosol-w-3](./Images/eingang.jpg)  
+![aerosol-w-3](./Images/eingang.png)  
 
 ![aerosol-w-4](./Images/gereifen.jpg)     
 
