@@ -3,10 +3,9 @@
 - Project Installation Title: Ordinary dreams and lucid dreams through interaction in VR
 - Category: Master Thesis  
 - Student/s: Xuejie Wei
-- Master Thesis Title: Lucid Dreaming in VR
-- Course Title: Rauchwolken und Luftschlösser    
-- Lecturer/s: Andrea Sick, Rene Weller   
-- Year: SS 2023/24
+- Master Thesis Title: Lucid Dreaming in VR   
+- Lecturer/s: Andrea Sick, Dr. Rene Weller   
+- Year: SS 2023
 
 
 ## text + images + videos    
